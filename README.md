@@ -82,3 +82,4 @@ Open `http://localhost:5173` to explore the editorial experience.
 ## License
 
 MIT
+
