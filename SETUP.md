@@ -44,3 +44,4 @@ npm run build
 npm run preview
 ```
 Output is compiled into `photo-studio/dist/`.
+
